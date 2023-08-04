@@ -7,4 +7,4 @@ const calculateAverage = (arr: number[]): number => {
   });
   return sum / arr.length;
 };
-// console.log(calculateAverage(arr));
+console.log(calculateAverage(arr));

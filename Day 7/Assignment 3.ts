@@ -13,4 +13,4 @@ const cities = [
   "Moscow",
 ];
 const cities2 = cities.filter((city) => city.length > 8);
-// console.log(cities2);
+console.log(cities2);

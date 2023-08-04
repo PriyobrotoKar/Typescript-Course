@@ -4,4 +4,4 @@ const product: { name: string; price: number; quantity: number } = {
   price: 1000,
   quantity: 5,
 };
-// console.log(product);
+console.log(product);
