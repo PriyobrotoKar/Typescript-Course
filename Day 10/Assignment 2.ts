@@ -11,7 +11,7 @@
 // balance (number): The account balance.
 
 // * Your task is to create a function called combineUserAndAccount that takes a User object and an Account object as arguments and returns a new object representing the combined information of the user and their account.
-// Ensure that the resulting object contains all the properties from both User and Account types
+// Ensure that the resulting object contains all the properties from both User and Account types.
 
 type User = {
   id: number;
